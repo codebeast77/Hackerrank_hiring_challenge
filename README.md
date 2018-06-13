@@ -1,1 +1,1 @@
-# Hackerrank_hiring_challenge
+# Hackerrank hiring challenge
